@@ -1,6 +1,6 @@
 FROM python:3.9
 
-WORKDIR D:\PythonDockerPractice
+WORKDIR /PythonDockerPractice
 
 COPY requirements.txt .
 
